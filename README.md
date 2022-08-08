@@ -1,4 +1,4 @@
-This is a data exploration activity about orders coming from fake partners in an ecommerce app. 
+This is a data exploration activity about orders coming from fake partners in an e-commerce app. 
 
 Fake partners are the stores that are not integrated directly with the app so orders are charged to the customer upon delivery. 
 
